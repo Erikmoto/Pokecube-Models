@@ -162,8 +162,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Uxie
 - 	Mesprit
 - 	Azelf
-- 	Dialga
-- 	Palkia
 - 	Heatran
 - 	Regigigas
 - 	Giratina Altered
@@ -325,3 +323,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Noibat
 - 	Noivern
 - 	Zygarde
+- 	Diancie
+- 	Hoopa - both formes
+- 	Volcanion
